@@ -1,4 +1,6 @@
 ## Hi there! I'm Faran 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farankhanatu" alt="farankhanatu" /> </p>
+
 - 🔭 I’m currently working on Final Year Project 'A Novel Secure and Inclusive Central Bank Digital Currency (CBDC)'
 - 🌱 I’m currently learning Ethereum blockchain & smart contracts with frontend technologies.
 - 👯 I’m looking to collaborate on projects involving agile software development, cybersecurity and blockchain
